@@ -1,9 +1,9 @@
-# freddie-mac
+# JPS Health Network - Dallas, TX
 
 
 ## Description:
 
-The main idea of the Freddie Mac project was to modernize and transition a legacy payment application into a microservice-based architecture. This was done to improve the system's scalability, maintainability, and fault tolerance while ensuring it could effectively provide mortgages and manage financial transactions. By moving to a microservices approach, the project aimed to enhance performance, enable easier system updates, and support real-time processing of mortgage transactions. The system was designed to securely integrate with external financial institutions and internal services, ensuring high availability, data consistency, and secure transactions for Freddie Mac's users.
+
 
 ## Technical Skills:
 
